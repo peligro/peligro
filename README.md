@@ -1,13 +1,13 @@
 # Hola, soy César Cancino 👋
 ### Technical Lead | Full Stack Developer | Formador Tecnológico
 
-[🌐 Portfolio](https://cesarcancino.com) • [📄 CV Completo](https://github.com/peligro/cv) • [💼 LinkedIn](https://www.linkedin.com/in/césar-hans-cancino-zapata-33487118) • [🎓 Udemy](https://www.udemy.com/user/cesar-cancino/)
+[🌐 Portfolio](https://cesarcancino.com) • [📄 CV Completo + PDF](https://www.cesarcancino.com/curriculum/)  • [📄 CV en GITHUB](https://github.com/peligro/cv)• [💼 LinkedIn](https://www.linkedin.com/in/césar-hans-cancino-zapata-33487118) • [🎓 Udemy](https://www.udemy.com/user/cesar-cancino/)
 
 ---
 
 ## 🚀 En una frase
 
-> **+25 años** construyendo software escalable en PHP, Python, JS y Go. Especializado en **arquitectura segura**, integraciones empresariales (SAP, Azure) y **formación técnica** para Latinoamérica.
+> **+25 años** construyendo software escalable en PHP, Python, JS y Golang. Especializado en **arquitectura segura**, integraciones empresariales (SAP, Azure) y **formación técnica** para Latinoamérica.
 
 ---
 
